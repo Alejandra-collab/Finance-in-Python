@@ -11,7 +11,7 @@ end = dt.datetime(2020, 9, 7)
 
 tickers = ['GOOG', 'AMZN', 'AAPL']
 cc = 'BTC-USD' # We can replace 'tickers' in the following
-               # lines of code for 'cc' andthe data that 
+               # lines of code for 'cc' and the data that 
                # the code will download will be the cc 
                # (cryptocurrency) data
 
