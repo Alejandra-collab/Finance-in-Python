@@ -1,4 +1,4 @@
-# Let's see how to download data from Yahoo Finance with Python
+# Let's see how to download data from Yahoo Finance with Python as .csv
 
 import pandas_datareader.data as web #to collect data
 import datetime as dt #to specify start and end dates
