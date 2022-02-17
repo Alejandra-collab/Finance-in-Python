@@ -1,3 +1,7 @@
 # Finance-in-Python
 
-## How to download data from Yahoo Finance in Python as .csv
+## get-data
+### How to download data from Yahoo Finance in Python as .csv
+
+## web-scraping
+### 
